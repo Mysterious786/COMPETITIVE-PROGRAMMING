@@ -1,0 +1,1 @@
+//A number that can be divisible by one or itself is know as a prime numer

@@ -1,0 +1,1 @@
+// Its a algorithmn that takews 
