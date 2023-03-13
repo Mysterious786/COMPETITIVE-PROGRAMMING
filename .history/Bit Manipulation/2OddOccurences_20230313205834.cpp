@@ -5,7 +5,7 @@
 //1^1 = 0
 //Now if we didnt got 0 after xor that means at some position the bit might have differ producing a set bit 
 //  Now any first bit set or last bit set
-// Now make two bucket first and second
+// Now makgit e two bucket first and second
 //Do the xor start from 0 with checking if & of that numbers
 //
 //{ Driver Code Starts
